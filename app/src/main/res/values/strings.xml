@@ -6,7 +6,7 @@
     <string name="centimeter">cm</string>
     <string name="megaFunction">Explique-moi le résultat.</string>
     <string name="computeIMC">Calcule mon IMC</string>
-    <string name="reset">reset</string>
+    <string name="reset">remise à 0</string>
     <string name="result">Résultat</string>
     <string name="ìnfo">Vous devez cliquer sur le bouton « Calcule mon IMC » pour obtenir un résultat.</string>
     <string name="female">Femme</string>
