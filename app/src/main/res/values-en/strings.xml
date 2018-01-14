@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BIM</string>
+    <string name="weight">Weight</string>
+    <string name="tall">Tall</string>
+    <string name="meter">m</string>
+    <string name="centimeter">cm</string>
+    <string name="megaFunction">Explain me</string>
+    <string name="computeIMC">Compute my BIM</string>
+    <string name="reset">reset</string>
+    <string name="result">Result</string>
+    <string name="ìnfo">You have to click \"Compute my BIM\".</string>
+    <string name="female">woman</string>
+    <string name="male">men</string>
+    <string name="niceBoy">You looks like Brad Pitt.</string>
+    <string name="niceGirl">You looks like Angelina Jolie.</string>
+</resources>
